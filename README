@@ -1,0 +1,20 @@
+Fun with Factorials!!
+
+Task: Create the most readable implementation of factorial humanly possible (BE CREATIVE!!!)
+
+ 1)  git clone git@github.com:challendy/tukaiz_dojo_1.git
+ 2)  cd into tukaiz_dojo_1/
+ 3)  git branch #{ENTER SOME RANDOM BRANCH NAME}
+ 4)  git checkout #{BRANCH NAME YOU JUST ENTERED}
+ 5)  open factorial.rb
+ 6)  creatively add your version of the MOST humanly readable and understandable implementation of factorial
+ 7)  *IMPORTANT* please name your method "def #{your_phone_ext}_factorial(n)"
+ 8)  git add factorial.rb
+ 9)  git commit -m "ENTER SOME COMMIT MESSAGE"
+ 10) git push origin #{BRANCH NAME YOU ENTERED FROM STEP 4}
+ 11) That's it! Awesome Job! I will be posting results and merging all branches later this week
+
+References:
+ http://en.wikipedia.org/wiki/Factorial
+ http://gitready.com/
+
