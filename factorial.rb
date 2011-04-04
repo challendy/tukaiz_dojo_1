@@ -1,8 +1,26 @@
 class Factorial
     
   # Sample Factorial method naming
-  def 1234_factorial(n)
-    # factorial(5) = 5*4*3*2*1 = 120
+  def factorial_6918(n)
+    result = n
+    if n > 0
+      while n > 1 do
+        result = result * (n-1)
+        n = n-1
+      end
+    elsif n == 0
+      result = 1
+    else
+      result = result.to_s
+      result += " is not a valid integer"
+    end
+    result
   end
 
 end
+
+
+app = Factorial.new
+puts app.factorial_6918(10)
+
+
