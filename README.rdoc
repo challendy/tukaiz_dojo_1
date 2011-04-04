@@ -1,4 +1,6 @@
-==Fun with Factorials!!
+==Goal: To abtain membership into the Tukaiz Kobra-Kai Dojo
+
+==Week 1: Fun with Factorials!!
 
 Task: Create the most readable implementation of factorial humanly possible (BE CREATIVE!!!)
 
