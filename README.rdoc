@@ -1,4 +1,4 @@
-Fun with Factorials!!
+==Fun with Factorials!!
 
 Task: Create the most readable implementation of factorial humanly possible (BE CREATIVE!!!)
 
