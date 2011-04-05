@@ -20,10 +20,10 @@ class Factorial
 end
 
 fact = Factorial.new
-puts "Factorial of -1:  #{fact.factorial_casoler(-1)}"
-puts "Factorial of 0:  #{fact.factorial_casoler(0)}"
-puts "Factorial of 1:  #{fact.factorial_casoler(1)}"
-puts "Factorial of 3:  #{fact.factorial_casoler(3)}"
-puts "Factorial of 10:  #{fact.factorial_casoler(10)}"
+puts "Factorial of -1:  #{fact.factorial_4820(-1)}"
+puts "Factorial of 0:  #{fact.factorial_4820(0)}"
+puts "Factorial of 1:  #{fact.factorial_4820(1)}"
+puts "Factorial of 3:  #{fact.factorial_4820(3)}"
+puts "Factorial of 10:  #{fact.factorial_4820(10)}"
 
 
