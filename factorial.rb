@@ -1,7 +1,5 @@
 class Factorial
-  #C:\Users\Carolina\.ssh\tukaiz_dojo_1\factorial.rb
     
-  # Sample Factorial method naming
   def factorial_4820(n)
 	
   	case 
