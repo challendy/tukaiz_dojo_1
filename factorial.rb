@@ -1,7 +1,5 @@
 class Factorial
-    
-  # Sample Factorial method naming
-  def factorial_6912(n)
+  def self.factorial_6912(n)
     case n
     when 0..1
       n
@@ -10,4 +8,5 @@ class Factorial
     end
   end
 end
-
+#Factorial.factorial_6912(10)
+#produces => 3628800 
