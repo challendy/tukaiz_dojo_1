@@ -4,13 +4,15 @@ class Factorial
   def factorial_1234(n)
   end
 
-  def factorial_4922(n)
+  def self.factorial_4922(n)
     result = 1
     n.downto(1) { |i| 
      result *= i
     }
-    puts result
+    result
   end
+  
+   puts factorial_4922(15)
 
 end
 
